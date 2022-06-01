@@ -65,9 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ![alt text](https://github.com/Mamagase/PlugMe.git/blob/[branch]/image.png?raw=true)
 
-#####################################################
-PLUGME
-######################################################
+## Plugme
 
 Login Details 
     Admin 
